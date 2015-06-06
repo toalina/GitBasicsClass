@@ -9,6 +9,28 @@
 
   #less - shows the text in terminal
 
+HEAD points to most recent commit
+
+  364  #adding your dirty file to committed (clean)
+      git commit unix_notes.txt
+
+  366  #double checking your work
+      git status
+
+  377  #remember to add message to commit
+      git commit -m 'new line'
+
+
+  378  git status
+  379  git log
+  380  #creating a branch call with git branch then give it a name
+      git branch git-notes
+
+  383  #switch branches
+      git checkout git-notes
+
+
+
   120  git
   121  ls -lt
   122  git
